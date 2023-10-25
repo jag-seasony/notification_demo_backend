@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m/YLvOoTI0SjKyTffzTHCj0vR/fbP4+bwnOgPvpJUOI=",
+  "Source": "NotificationsApp",
+  "BasePath": "_content/NotificationsApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
