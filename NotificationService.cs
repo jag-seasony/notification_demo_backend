@@ -9,8 +9,8 @@ using SendGrid.Helpers.Mail;
 public class NotificationService
 {
     private string GatewayApiUrl = "https://gatewayapi.com/rest/";
-    private string GatewayApiToken = "I0knlgLCQFS7fHQ-4WGgdjSLIOPUcmifIrutqQkWaqw7g0gX9vRfL4g5CH8ECrEr";
-    private string SendGridApiKey = "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";
+    private string GatewayApiToken = "";
+    private string SendGridApiKey = "";
 
     public async Task SendSMSAsync(string message, string phoneNumber)
     {
